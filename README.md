@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barabonda)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Azure-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
