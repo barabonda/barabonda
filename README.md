@@ -5,7 +5,7 @@
 안녕하세요 저는 수원대 데이터과학부에 4학년으로 재학 중인 이민우라고 합니다.<br/>
 저는 AI, communication역량을 활용하여 지속적으로 새로운 가치를 창출하는 것과 글을 읽는 것을 좋아하며,<br/>
 어떻게 하면 더 효과적으로 할 수 있을지 고민하고 적용시킵니다.<br/>
-저의 관심분야는 LLM, MLOps, Data engineering, Vison 등 폭넓은 분야에 관심을 두고 공부하고 있습니다.<br/>
+저의 관심분야는 LLM, MLOps, Data engineering 등 폭넓은 분야에 관심을 두고 공부하고 있습니다.<br/>
 부족한 점을 배우고 극복하여 지속적으로 성장한다는 가치관을 가지고있습니다.<br/>
 저에게 궁금한 점이 있으시다면 skydlalsdn2@gmail.com 으로 연락주세요🙂<br/>
 감사합니다.
@@ -15,22 +15,22 @@
 수원대학교 수북대전 은상(2022)<br/>
 경기도 청년 정책 토론대회 금상(2022)<br/>
   
-AI metaverse 공모전 출품(팀장,기획)(2023)
-- MUSIC VERSE<br/><br/>
+🎻AI metaverse 공모전 출품(팀장,기획)(2023)
+- 🎻MUSIC VERSE<br/><br/>
 
-instruct pix2pix model을 finetuning한 text to image 포켓몬 채색 웹사이트 제작(AI, backend)(2023.06~2024.1)<br/>
-- 교내 학술제 3학년 부문 1위
-- 교내 AISW Developer 최우수상<br/><br/>
+👾instruct pix2pix model을 finetuning한 text to image 포켓몬 채색 웹사이트 제작(AI, backend)(2023.06~2024.1)<br/>
+- 🏅교내 학술제 3학년 부문 1위
+- 🏅교내 AISW Developer 최우수상<br/><br/>
 
-SKT  DEVOCEAN YOUNG 2기 수료(2023.03~2023.11) <br/>
-- AI기반 만다라트 계획 관리 서비스 “꿈틀” 프로젝트(팀장, 기획, AI )
-- 우수 활동자 선정<br/>
+🌊SKT  DEVOCEAN YOUNG 2기 수료(2023.03~2023.11) <br/>
+- 🐛AI기반 만다라트 계획 관리 서비스 “꿈틀” 프로젝트(팀장, 기획, AI )
+- 🏅우수 활동자 선정<br/>
 
-SKT FLY AI CHELLENGER 4기(400시간) 수료<br/>
-- 초개인화 AI 실버케어 플랫폼 “POOM” (기획, AI)<br/>
+🪽SKT FLY AI CHELLENGER 4기(400시간) 수료<br/>
+- 👪초개인화 AI 실버케어 플랫폼 “POOM” (기획, AI)<br/>
 
 구름X카카오 1박2일 벚꽃톤 진행중(2024.03.12~2024.03.24)
-- 소비자와 기업이 윈윈하는 음식 펀딩 플랫폼 "식스팩"(기획, AI)
+- 🥘소비자와 기업이 윈윈하는 음식 펀딩 플랫폼 "식스팩"(기획, AI)
 
 <!--
 **barabonda/barabonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
