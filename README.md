@@ -35,12 +35,13 @@
 
 📖🏅213 포병대대 독서발표대회 1위(2021)<br/>
 🗣️🏅[team 복학생] 경기도 청년 정책 토론대회 금상(2022)<br/>
-🗣️🏅[team 복학생] 수원대학교 수북대전 은상(2022)<br/
+🗣️🏅[team 복학생] 수원대학교 수북대전 은상(2022)
 
-
-
-
-
+### **Education**
+- [team IAMAI] 과 알고리즘 스터디(2022.12~2023.06)
+- [FLAG] 알고리즘 기초 스터디(2023.03~2023.06)
+- [DEVOCEAN YOUNG] 코테 준비 알고리즘 스터디(2023.6~2023.9)
+- SK FLY AI MLOps study(2023.12~2024.2)
 
 
 <!--
@@ -65,4 +66,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br/>
 <br/>
-포트폴리오(제작 중): https://www.notion.so/Minwoo-Lee-Portfolio-30c898c64b2a448ebed3081b8e0e5991
+**포트폴리오(제작 중)**: https://www.notion.so/Minwoo-Lee-Portfolio-30c898c64b2a448ebed3081b8e0e5991
