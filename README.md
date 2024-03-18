@@ -19,9 +19,11 @@
 🪽SKT FLY AI CHELLENGER 4기(400시간) 수료<br/>
 - 👪[team 문답무용] 초개인화 AI 실버케어 플랫폼 “POOM” (기획, AI)<br/>
 
+
 🌊SKT  DEVOCEAN YOUNG 2기 수료(2023.03~2023.11) <br/>
 - 🐛[team 니빵내빵] AI기반 만다라트 계획 관리 서비스 “꿈틀” 프로젝트(팀장, 기획, AI )
 - 🏅우수 활동자 선정<br/>
+
 
 👾[team IAMAI] instruct pix2pix model을 finetuning한 text to image 포켓몬 채색 웹사이트 제작(AI, backend)(2023.06~2024.1)<br/>
 - 🏅교내 학술제 3학년 부문 1위
