@@ -14,7 +14,7 @@
 수원대학교 수북대전 은상(2022)<br/>
 경기도 청년 정책 토론대회 금상(2022)<br/>
   
-AI metaverse 공모전 출품(팀장,기획)
+AI metaverse 공모전 출품(팀장,기획)(2023)
 - MUSIC VERSE<br/><br/>
 
 instruct pix2pix model을 finetuning한 text to image 포켓몬 채색 웹사이트 제작(AI, backend)(2023.06~2024.1)<br/>
