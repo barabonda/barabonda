@@ -23,14 +23,14 @@
 - 🏅교내 AISW Developer 최우수상<br/><br/>
 
 🌊SKT  DEVOCEAN YOUNG 2기 수료(2023.03~2023.11) <br/>
-- 🐛[team 니빵내빵]AI기반 만다라트 계획 관리 서비스 “꿈틀” 프로젝트(팀장, 기획, AI )
+- 🐛[team 니빵내빵] AI기반 만다라트 계획 관리 서비스 “꿈틀” 프로젝트(팀장, 기획, AI )
 - 🏅우수 활동자 선정<br/>
 
 🪽SKT FLY AI CHELLENGER 4기(400시간) 수료<br/>
-- 👪[team 문답무용]초개인화 AI 실버케어 플랫폼 “POOM” (기획, AI)<br/>
+- 👪[team 문답무용] 초개인화 AI 실버케어 플랫폼 “POOM” (기획, AI)<br/>
 
 ☁️구름X카카오 1박2일 벚꽃톤 진행중(2024.03.12~2024.03.24)
-- 🥘소비자와 기업이 윈윈하는 음식 펀딩 플랫폼 "식스팩"(기획, AI)
+- 🥘[team 육각형인재] 소비자와 기업이 윈윈하는 음식 펀딩 플랫폼 "식스팩"(기획, AI)
 
 <!--
 **barabonda/barabonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
