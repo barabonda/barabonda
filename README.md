@@ -27,7 +27,7 @@
 
 👾[team IAMAI] instruct pix2pix model을 finetuning한 text to image 포켓몬 채색 웹사이트 제작(AI, backend)(2023.06~2024.1)<br/>
 - 🏅교내 학술제 3학년 부문 1위
-- 🏅교내 AISW Developer 최우수상<br/><br/>
+- 🏅교내 AISW Developer 최우수상<br/>
 <br/>
 🤖AI metaverse - 디지털혁신 공모전 출품(팀장,기획)(2023)
 - 🎻[team EQ] 음악으로 함께하는 세상 MUSIC VERSE<br/><br/>
