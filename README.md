@@ -14,21 +14,21 @@
 
 ☁️구름X카카오 1박2일 벚꽃톤(2024.03.12~2024.03.24 진행중)
 - 🥘[team 육각형인재] 소비자와 기업이 윈윈하는 음식 펀딩 플랫폼 "식스팩"(기획, AI)<br/>
-
+<br/>
 
 🪽SKT FLY AI CHELLENGER 4기(400시간) 수료<br/>
 - 👪[team 문답무용] 초개인화 AI 실버케어 플랫폼 “POOM” (기획, AI)<br/>
-
+<br/>
 
 🌊SKT  DEVOCEAN YOUNG 2기 수료(2023.03~2023.11) <br/>
 - 🐛[team 니빵내빵] AI기반 만다라트 계획 관리 서비스 “꿈틀” 프로젝트(팀장, 기획, AI )
 - 🏅우수 활동자 선정<br/>
-
+<br/>
 
 👾[team IAMAI] instruct pix2pix model을 finetuning한 text to image 포켓몬 채색 웹사이트 제작(AI, backend)(2023.06~2024.1)<br/>
 - 🏅교내 학술제 3학년 부문 1위
 - 🏅교내 AISW Developer 최우수상<br/><br/>
-
+<br/>
   
 🤖AI metaverse - 디지털혁신 공모전 출품(팀장,기획)(2023)
 - 🎻[team EQ] 음악으로 함께하는 세상 MUSIC VERSE<br/><br/>
