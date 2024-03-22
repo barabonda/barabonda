@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+https://youtu.be/aIWOBFyGQDs?si=OUHx5koAZza45mGs
+개발이 잘안될때 듣는 노래  
+🎶유재하 - 내 마음에 비친 내 모습
 ### **Introduction**<br/>
 **"의미있는 변화를 쫓고 소통하는 AI 개발자"** <br/>
 안녕하세요 저는 수원대 데이터과학부에 4학년으로 재학 중인 이민우라고 합니다.<br/>
