@@ -1,7 +1,8 @@
-### Hi there 👋
 [![Video Label](http://img.youtube.com/vi/aIWOBFyGQDs/0.jpg)](https://youtu.be/aIWOBFyGQDs)  
 **도저히 모르겠을 때 저는 이 노래를 듣습니다.**  
-🎶유재하 - 내 마음에 비친 내 모습
+🎶유재하 - 내 마음에 비친 내 모습  
+
+### Hi there 👋
 ### **Introduction**<br/>
 **"의미있는 변화를 쫓고 소통하는 AI 개발자"** <br/>
 안녕하세요 저는 수원대 데이터과학부에 4학년으로 재학 중인 이민우라고 합니다.<br/>
