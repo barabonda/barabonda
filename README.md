@@ -27,7 +27,7 @@
 🌊SKT  DEVOCEAN YOUNG 2기 수료(2023.03~2023.11) <br/>
 - 🐛[team 니빵내빵] AI기반 만다라트 계획 관리 서비스 “꿈틀” 프로젝트(팀장, 기획, AI )
 - 🏅우수 활동자 선정<br/>
-    - GPT API 활용 사용자 정보 기반 9*9 AI 만다라트 표 생성 Prompt engineering
+    - GPT API 활용 사용자 정보 기반 9*9 AI 만다라트 계획표 생성 Prompt engineering
 <br/>
 
 👾[team IAMAI] instruct pix2pix model을 finetuning한 text to image 포켓몬 채색 웹사이트 제작(AI, backend)(2023.06~2024.1)<br/>
