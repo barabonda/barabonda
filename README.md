@@ -1,6 +1,3 @@
-[![Video Label](http://img.youtube.com/vi/aIWOBFyGQDs/0.jpg)](https://youtu.be/aIWOBFyGQDs)  
-**도저히 모르겠을 때 저는 이 노래를 듣습니다.**  
-🎶유재하 - 내 마음에 비친 내 모습  
 
 ### Hi there 👋
 ### **Introduction**<br/>
