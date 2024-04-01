@@ -14,7 +14,7 @@
 
 ☁️🍫구름X카카오 1박2일 벚꽃톤🌸(2024.03.12~2024.03.24)
 - 🥘[team 육각형인재] 소비자와 소상공인이 윈윈하는 음식 펀딩 플랫폼 "식스팩"(기획, AI)
-  - GPT-VISION을 활용한 상품 text+image 기반 AI hashtag 생성 및 RAG 기반 LLM 활용 AI 검색 기능, fastapi serving  
+  - GPT-VISION을 활용한 음식 text+image 기반 AI hashtag 생성 및 RAG 기반 LLM 활용 AI 검색 기능, fastapi serving  
 <br/>
 <br/>
 
