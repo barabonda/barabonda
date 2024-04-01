@@ -13,21 +13,26 @@
 ### **Experience overview**
 
 ☁️🍫구름X카카오 1박2일 벚꽃톤🌸(2024.03.12~2024.03.24)
-- 🥘[team 육각형인재] 소비자와 소상공인이 윈윈하는 음식 펀딩 플랫폼 "식스팩"(기획, AI)<br/>
+- 🥘[team 육각형인재] 소비자와 소상공인이 윈윈하는 음식 펀딩 플랫폼 "식스팩"(기획, AI)
+  - GPT-VISION을 활용한 상품 text+image 기반 AI hashtag 생성 및 RAG 기반 LLM 활용 AI 검색 기능, fastapi serving  
+<br/>
 <br/>
 
 🪽SKT FLY AI CHELLENGER 4기(400시간) 수료<br/>
 - 👪[team 문답무용] 초개인화 AI 실버케어 플랫폼 “POOM” (기획, AI)<br/>
+  - Autogen과 GPT Assistant를 활용 thread data 기반 초 개인화 멀티 에이전트 대화 챗봇 개발 
 <br/>
 
 🌊SKT  DEVOCEAN YOUNG 2기 수료(2023.03~2023.11) <br/>
 - 🐛[team 니빵내빵] AI기반 만다라트 계획 관리 서비스 “꿈틀” 프로젝트(팀장, 기획, AI )
 - 🏅우수 활동자 선정<br/>
+    - GPT API 활용 사용자 정보 기반 9*9 AI 만다라트 표 생성 Prompt engineering
 <br/>
 
 👾[team IAMAI] instruct pix2pix model을 finetuning한 text to image 포켓몬 채색 웹사이트 제작(AI, backend)(2023.06~2024.1)<br/>
 - 🏅교내 학술제 3학년 부문 1위
 - 🏅교내 AISW Developer 최우수상<br/>
+    - instruct pix2pix model finetuning 및 flask 이용한 응답 serving
 <br/>
 
 🤖AI metaverse 디지털혁신 공모전 출품(팀장,기획)(2023)<br/>
