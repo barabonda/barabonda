@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-🪽SKT FLY AI CHELLENGER 4기(400시간) 수료<br/>
+🪽SKT FLY AI CHELLENGER 4기(400시간) 수료(2023.12.18~2024.02.29)<br/>
 - 👪[team 문답무용] 초개인화 AI 실버케어 플랫폼 “POOM” (기획, AI)<br/>
   - Autogen과 GPT Assistant를 활용 thread data 기반 초 개인화 멀티 에이전트 대화 챗봇 개발 
 <br/>
