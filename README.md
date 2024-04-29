@@ -48,6 +48,7 @@
 
 
 ### **Education**
+- DEVOCEAN OpenLab LLMOps 스터디(2024.4.25~)
 - SK FLY AI MLOps 스터디(2023.12~2024.2)
 - [DEVOCEAN YOUNG] 코테 준비 알고리즘 스터디(2023.6~2023.9)
 - [FLAG] 알고리즘 기초 스터디(2023.03~2023.06)
