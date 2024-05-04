@@ -10,7 +10,9 @@
 저에게 궁금한 점이 있으시다면 skydlalsdn2@gmail.com 으로 연락주세요🙂<br/>
 감사합니다.
 
-### **Experience overview**  
+### **Experience overview**
+ 
+
 🚴‍♀️제3회 강서구 빅데이터 분석 아이디어 공모전(2024.03.27~2024.04.12 진행중)
 
 ☁️🍫구름X카카오 1박2일 벚꽃톤🌸(2024.03.12~2024.03.24)
@@ -21,7 +23,8 @@
 
 🪽SKT FLY AI CHELLENGER 4기(400시간) 수료(2023.12.18~2024.02.29)<br/>
 - 👪[team 문답무용] 초개인화 AI 실버케어 플랫폼 “POOM” (기획, AI)<br/>
-  - Autogen과 GPT Assistant를 활용 thread data 기반 초 개인화 멀티 에이전트 대화 챗봇 개발 
+  - Autogen과 GPT Assistant를 활용 thread data 기반 초 개인화 멀티 에이전트 대화 챗봇 개발
+  - Paper: A Design and Implementation of The Deep Learning-Based Senior Care Service Application Using AI Speaker 
 <br/>
 
 🌊SKT  DEVOCEAN YOUNG 2기 수료(2023.03~2023.11) <br/>
