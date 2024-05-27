@@ -12,7 +12,7 @@
 
 ### **Experience overview**
 👽SKT AI Fellowship 6기(2024.05.31~ 진행중)
- - Virtual Try-On 기술 개발
+ - 🧷Virtual Try-On 기술 개발
  
 
 🚴‍♀️제3회 강서구 빅데이터 분석 아이디어 공모전(2024.03.27~2024.04.12)
