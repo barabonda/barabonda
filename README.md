@@ -14,7 +14,7 @@
 👽SKT AI Fellowship 6기(2024.05.31~ 진행중)
  - 🧷Virtual Try-On 기술 개발
 
-🚀SKT DEVOCEAN OpenLab LLMOps 스터디(2024.4.25~)
+🚀SKT DEVOCEAN OpenLab LLMOps 스터디(2024.4.25~ 진행중)
  - TGO(Travel Go) project (agent design)
 
  <br/><br/>
