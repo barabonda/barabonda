@@ -14,6 +14,8 @@
 🚀SKT DEVOCEAN OpenLab LLMOps 스터디(2024.4.25~ 진행중)
  - TGO(Travel Go) project (Multi-agent design)
 
+👽SKT Fellowship 6기(2024.05.31~2024.09)
+ -Virtual Try-On 기술개발
  <br/><br/>
 🚴‍♀️제3회 강서구 빅데이터 분석 아이디어 공모전(2024.03.27~2024.04.12)  
 
