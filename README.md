@@ -8,7 +8,7 @@
 저의 관심분야는 **LLMOps, CV, Data engineering** 등 폭넓은 분야에 관심을 두고 개발 경험을 쌓고있습니다.<br/>
 부족한 점을 배우고 극복하여 지속적으로 성장한다는 가치관을 가지고있습니다.<br/>
 저에게 궁금한 점이 있으시다면 skydlalsdn2@gmail.com 으로 연락주세요🙂<br/>
-감사합니다.
+감사합니다.  
 CV: https://www.rallit.com/resumes/1412522@skydlalsdn2/%EC%9D%B4%EB%AF%BC%EC%9A%B0
 ### **Experience overview**
 🚀SKT DEVOCEAN OpenLab LLMOps 스터디(2024.4.25~ 진행중)
