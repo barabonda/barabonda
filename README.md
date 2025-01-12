@@ -86,4 +86,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br/>
 <br/>
-**포트폴리오(제작 중)**: https://www.notion.so/Minwoo-Lee-Portfolio-30c898c64b2a448ebed3081b8e0e599
+**포트폴리오(제작 중)**: https://www.rallit.com/resumes/1412522@skydlalsdn2/%EC%9D%B4%EB%AF%BC%EC%9A%B0
