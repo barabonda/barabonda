@@ -11,7 +11,11 @@
 감사합니다.  
 
 ### **Experience overview**
-🚀SKT DEVOCEAN OpenLab LLMOps 스터디(2024.4.25~ 진행중)
+Futureworklab LinkBrain (2024.12~현재)
+- 프로젝트 기획 및 기술 아키텍처 설계
+- Link to KG Pipelink 구축 및 Graph RAG 고도화
+
+🚀SKT DEVOCEAN OpenLab LLMOps 스터디(2024.4.25~2024.11)
  - TGO(Travel Go) project (Multi-agent design)
 
 생성형 AI 레드팀 챌린지 2024 참여(2024.04.12 ~ 2024.04.13)
