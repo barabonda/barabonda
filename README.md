@@ -18,6 +18,8 @@ Futureworklab LinkBrain (2024.12~현재)
 🚀SKT DEVOCEAN OpenLab LLMOps 스터디(2024.4.25~2024.11)
  - TGO(Travel Go) project (Multi-agent design)
 
+🚀SKT AI Fellowship 6기 Virtural Try-On 연구개발(2024.05~2024.09)
+
 생성형 AI 레드팀 챌린지 2024 참여(2024.04.12 ~ 2024.04.13)
 - 인권침해, 잘못된 정보, 일관성 결여, 사이버 공격, 편견 및 차별, 불법 콘텐츠, 탈옥의 주제로 AI 공격
 
