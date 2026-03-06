@@ -2,7 +2,7 @@
 ### Hi there 👋
 ### **Introduction**<br/>
 **"의미있는 변화를 쫓고 소통하는 AI 개발자"** <br/>
-안녕하세요 저는 Data Science를 전공으로 4학년에 재학 중인 이민우라고 합니다.<br/>
+안녕하세요 물음표를 느낌표로 전환하는 AI Research Engineer 이민우라고 합니다.<br/>
 저는 AI, communication역량을 활용하여 지속적으로 새로운 가치를 창출하는 것과 글을 읽는 것을 좋아하며,<br/>
 어떻게 하면 더 효과적으로 할 수 있을지 고민하고 적용시킵니다.<br/>
 저의 관심분야는 **LLMOps, CV, Data engineering** 등 폭넓은 분야에 관심을 두고 개발 경험을 쌓고있습니다.<br/>
