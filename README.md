@@ -11,6 +11,11 @@
 감사합니다.  
 
 ### **Experience overview**
+삼성서울병원(2025.06~2026.02)
+- Find a Doc: Agentic 다병원 의사 검색 서비스 
+- Hypher Mirror: realtime voice interaction medical chatbot
+- Ontology, AI Agent 접목한 의료서비스, 뇌졸증 예측 연구 수행
+
 Futureworklab LinkBrain (2024.12~현재)
 - 프로젝트 기획 및 기술 아키텍처 설계
 - Link to KG Pipelink 구축 및 Graph RAG 고도화
